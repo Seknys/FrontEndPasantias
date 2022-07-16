@@ -81,11 +81,17 @@ Si todos los pasos fueron ejecutados correctamente no se presentara ningun probl
 
 
 - El programa permite ingresar un nombre de usuario  y buscarlo mediante el Api de github. (Nota: el nombre de usuario es el que se encuentra mas opaco y mas pequeño en este caso Seknys).
+![image](https://user-images.githubusercontent.com/74793607/179326024-3702a1a1-7879-4161-b24d-c3fccef2aba7.png)
+
+![image](https://user-images.githubusercontent.com/74793607/179326019-cb1aea8a-ab62-4691-9ecb-e7f035f95541.png)
 
 - Despues la pagina redirigira a otra en la que se presentara los datos del usuario, la imagen de perfil y todos los repositorios que este tenga con una descripcion y nombre de cada uno.
+![image](https://user-images.githubusercontent.com/74793607/179326058-44ae11d3-9d48-471e-bac6-ce054919dcf0.png)
+
 
 -En el caso de no encontrar el usuario se mostrara un mensaje de error.
 
+![image](https://user-images.githubusercontent.com/74793607/179326073-caeef5e9-3023-427a-ad53-2314481bbcca.png)
 
 
 
